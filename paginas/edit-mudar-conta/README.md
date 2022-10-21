@@ -8,7 +8,7 @@ description: Página responsável por alteração de dados do usuário autentica
 
 Página responsável pelo controle de informações associadas ao usuário. Através desta página, é possível redefinir a senha de um usuário.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Página Mudar Conta</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Componentes Integrados
 

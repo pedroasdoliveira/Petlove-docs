@@ -8,7 +8,7 @@ description: Componente responsável por efetuar a autenticação de um usuário
 
 O componente de login destina-se a sistematização do controle de autenticação de usuários dentro da aplicação.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Componente de Login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Componente de Login</p></figcaption></figure>
 
 O controle é feito através de um formulário com os campos "email" e "senha". Os campos estão devidamente validados e condicionados para melhor experiência do usuário e para o tratamento de possíveis erros no processo de validação.
 

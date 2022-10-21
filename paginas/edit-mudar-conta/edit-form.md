@@ -8,7 +8,7 @@ description: Componente responsável por alterar informações do usuário.
 
 O componente de <mark style="color:purple;">EditForm</mark> é responsável pela redefinição de senhas de usuários dentro da aplicação.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
 
 A restauração de senhas é feita através de um formulário padrão.
 
