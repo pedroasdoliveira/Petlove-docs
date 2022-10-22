@@ -19,12 +19,12 @@
 * [Homepage 🏡](paginas/homepage.md)
 * [Teste - Interview 🧾](paginas/teste-interview/README.md)
   * [StepsForm](paginas/teste-interview/stepsform.md)
-* [Perfil](paginas/perfil.md)
+* [Perfil 🙎🏽‍♂️](paginas/perfil.md)
 * [Edit - Mudar conta ⚙](paginas/edit-mudar-conta/README.md)
   * [Edit Form](paginas/edit-mudar-conta/edit-form.md)
+* [Histórico](paginas/historico.md)
 * [Especialidades](paginas/especialidades.md)
 * [Administração](paginas/administracao.md)
-* [Histórico](paginas/historico.md)
 
 ## Requisitos
 

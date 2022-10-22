@@ -1,10 +1,28 @@
-# Perfil
+---
+description: Página inicial com informações do usuário logado.
+---
+
+# Perfil 🙎🏽‍♂️
 
 ## Introdução
 
-## Componentes Integrados
+A página Profile é o próximo destino do usuário após realizar o teste "Self Awareness".
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Página Profile</p></figcaption></figure>
 
+Aqui ficarão contidas as informações de estado de avaliação do último teste feito pelo usuário, além de dados relativos a conta como nome, foto, endereço eletrônico, função, etc.
+
+O estado de avaliação do teste pode ser visto aqui:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Componentes dinâmicos da página profile</p></figcaption></figure>
+
+O gráfico apresentado acima indica o progresso da avaliação pelo gestor. Possui três estados principais:
+
+* Aguardando 🟡 -> representado pela cor amarela, mostra que o teste ainda se encontra em avaliação pelo gestor.
+* Reprovado 🔴 -> representado pela cor vermelha, entende-se que o usuário não conseguiu aprovação para o teste feito.
+* Aprovado 🟢 -> representado pela cor verde, reflete a aprovação do teste feito pelo usuário
+
+O quadro de informações à direita mantém dados do usuário que são atualizados conforme a progressão de avaliação do teste.
 
 ## Requisitos Funcionais
 
