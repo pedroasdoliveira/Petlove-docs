@@ -10,7 +10,7 @@ O componente de <mark style="color:purple;">EditForm</mark> é responsável pela
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
 
 Modificações feitas são realizadas através de múltiplos formulários de edição.
 

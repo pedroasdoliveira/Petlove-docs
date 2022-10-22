@@ -8,7 +8,7 @@ description: Componente responsável pela redefinição de senha via email.
 
 O componente ChangePassword se destina ao controle de restauração de senhas de usuários via email.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Componente Form de restauração de senha.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Componente Form de restauração de senha.</p></figcaption></figure>
 
 Sua funcionalidade ocorre por meio de um formulário padrão de inscrição de senha para eventual verificação e autorização de acesso.
 
