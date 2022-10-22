@@ -4,7 +4,7 @@ description: >-
   desconhecimento.
 ---
 
-# Esqueci a Senha
+# Esqueci a Senha ❓
 
 ## Introdução
 
@@ -12,7 +12,7 @@ Página para redefinição de senha por email.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Página de redefinição de senha via email</p></figcaption></figure>
 
-Sua funcionalidade ocorre através de um formulário com o campo "email". Uma vez enviada a solicitação, o usuário receberá uma notificação com o link para redefinição de senha. O link remete a página <mark style="color:purple;">Change</mark>.
+Sua funcionalidade ocorre através de um formulário com o campo "email". Uma vez enviada a solicitação, o usuário receberá uma notificação com o link para redefinição de senha. O link remete a página [<mark style="color:purple;">Mudar Senha</mark>](mudar-senha/).
 
 ## Formulário e Validação
 
@@ -24,7 +24,7 @@ interface ForgotPasswordData {
 }
 ```
 
-A validação dos campos ocorre com a lib "yup" e, à exemplo de sua aplicação, há a seguinte definição:
+A validação do campo ocorre com a lib "yup" e, à exemplo de sua aplicação, há a seguinte definição:
 
 ```typescript
 const forgotPasswordSchema = yup.object().shape({

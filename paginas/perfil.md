@@ -19,7 +19,7 @@ O estado de avaliação do teste pode ser visto aqui:
 O gráfico apresentado acima indica o progresso da avaliação pelo gestor. Possui três estados principais:
 
 * Aguardando 🟡 -> representado pela cor amarela, mostra que o teste ainda se encontra em avaliação pelo gestor.
-* Reprovado 🔴 -> representado pela cor vermelha, entende-se que o usuário não conseguiu aprovação para o teste feito.
+* Reprovado 🔴 -> representado pela cor vermelha, entende-se que o usuário não obteve aprovação para o teste realizado.
 * Aprovado 🟢 -> representado pela cor verde, reflete a aprovação do teste feito pelo usuário
 
 O quadro de informações à direita mantém dados do usuário que são atualizados conforme a progressão de avaliação do teste.
