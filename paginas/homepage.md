@@ -8,7 +8,7 @@ description: Página inicial após o login.
 
 Página `home` responsável por direcionar usuário para [Perfil](perfil.md) e para de realização do [Teste](teste-interview/).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Componentes Integrados
 

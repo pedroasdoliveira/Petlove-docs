@@ -13,6 +13,7 @@
 * [Login & Registro🔒](paginas/login-and-registro/README.md)
   * [Login](paginas/login-and-registro/login.md)
   * [Registro](paginas/login-and-registro/registro.md)
+* [Esqueci a Senha](paginas/esqueci-a-senha.md)
 * [Homepage 🏡](paginas/homepage.md)
 * [Teste - Interview 🧾](paginas/teste-interview/README.md)
   * [StepsForm](paginas/teste-interview/stepsform.md)
