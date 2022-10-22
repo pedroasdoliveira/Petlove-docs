@@ -2,7 +2,7 @@
 description: Página responsável pela redefinição de senha
 ---
 
-# Mudar Senha
+# Mudar Senha ❗
 
 ## Introdução
 
@@ -10,7 +10,7 @@ Página de restauração de senha.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Página de alteração de senha.</p></figcaption></figure>
 
-Por meio dessa página será permitido ao usuário redefinir sua senha, após recebimento do email com o link para a restauração.
+Por meio dessa página será permitido ao usuário redefinir sua senha após recebimento do email com o link para a restauração.
 
 ## Componentes Integrados
 
