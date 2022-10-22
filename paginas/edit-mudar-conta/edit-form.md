@@ -1,18 +1,20 @@
 ---
-description: Componente responsável por alterar informações do usuário.
+description: Componente responsável por alterar informações e preferências do usuário.
 ---
 
 # Edit Form
 
 ## Introdução
 
-O componente de <mark style="color:purple;">EditForm</mark> é responsável pela redefinição de senhas de usuários dentro da aplicação.
+O componente de <mark style="color:purple;">EditForm</mark> é responsável pela redefinição de dados e configurações do usuário associado a conta.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
 
-A restauração de senhas é feita através de um formulário padrão.
 
-## Formulário e Validação
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
+
+Modificações feitas são realizadas através de múltiplos formulários de edição.
+
+## Formulário e Validação de Senhas
 
 Os campos do formulário estão sujeitos a seguinte configuração:
 
@@ -75,12 +77,76 @@ const editSchema = yup.object().shape(
 ```
 {% endcode %}
 
-## Submissão do Form de Redefinição de Senha
+## Form: Notificações de Email
+
+O controle de preferência de recebimento de notificações via email ocorre por meio de um hook:
+
+```tsx
+const [emailNotification, setEmailNotification] = useState("");
+```
+
+Seleção de configuração:
+
+```tsx
+<RadioGroup
+  onChange={setEmailNotification}
+  value={emailNotification}
+>
+  <Stack>
+    <Radio value="all">Todos</Radio>
+    <Radio value="team">Somente do meu time</Radio>
+    <Radio value="none">Nenhum</Radio>
+  </Stack>
+</RadioGroup>
+```
+
+## Form: Imagem de perfil:
+
+```typescript
+const file = e.target.files?.[0];
+//verifica se o file não é imagem
+if (!file?.type.match(/image.*/)) {
+  toast.error("Arquivo não é uma imagem");
+  return;
+}
+
+//verifica se o tamanho do arquivo é maior que 5mb
+if (file.size > 5 * 1024 * 1024) {
+  toast.error("Arquivo muito grande");
+  return;
+}
+
+if (file) {
+  setLoading(true);
+  const formData = new FormData();
+  formData.append("image", file);
+  formData.append("album", process.env.NEXT_PUBLIC_CLIENT_ALBUM as string);
+
+  axios
+    .post("https://api.imgur.com/3/image", formData, {
+      headers: {
+        Authorization: process.env.NEXT_PUBLIC_CLIENT_ID as string,
+      },
+    })
+    .then((response) => {
+      setImage(response.data.data.link);
+      setLoading(false);
+    })
+    .catch((error) => {
+      toast.error("Erro ao enviar imagem");
+      setLoading(false);
+    });
+}
+}}
+```
+
+## Submit Form de Redefinição de Informações
 
 Através do <mark style="color:purple;">Axios</mark>, <mark style="color:purple;"></mark> tem-se por definição a função de submissão do formulário, listada logo abaixo:
 
 ```typescript
 const handleEdit = (data: EditData) => {
+    setRequisition(true);
     const token = localStorage.getItem("token");
 
     const headers = {
@@ -89,17 +155,35 @@ const handleEdit = (data: EditData) => {
       },
     };
 
+    if (!data.newPassword) {
+      delete data.newPassword;
+      delete data.confirmPassword;
+    }
+
+    const dataToSend = {
+      ...data,
+      emailNotification,
+      profilePicture: image,
+    };
+
     api
-      .patch(`/User/${user.email}`, data, headers)
+      .patch(`/User/${user.email}`, dataToSend, headers)
       .then((response) => {
         toast.success("Dados alterados com sucesso!");
         handleGetUsers();
+        setRequisition(false);
+        reset();
       })
       .catch((error) => {
         toast.error("Erro ao alterar dados!");
+        console.log(error);
+        console.log(dataToSend);
+        setRequisition(false);
       });
   };
 ```
+
+
 
 ## Componentes integrados
 

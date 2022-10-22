@@ -8,13 +8,13 @@ description: Página inicial com informações do usuário logado.
 
 A página Profile é o próximo destino do usuário após realizar o teste "Self Awareness".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Página Profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Página Profile</p></figcaption></figure>
 
 Aqui ficarão contidas as informações de estado de avaliação do último teste feito pelo usuário, além de dados relativos a conta como nome, foto, endereço eletrônico, função, etc.
 
 O estado de avaliação do teste pode ser visto aqui:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Componentes dinâmicos da página profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Componentes dinâmicos da página profile</p></figcaption></figure>
 
 O gráfico apresentado acima indica o progresso da avaliação pelo gestor. Possui três estados principais:
 

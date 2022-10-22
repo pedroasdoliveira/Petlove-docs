@@ -6,7 +6,7 @@ description: Página responsável por alteração de dados do usuário autentica
 
 ## Introdução
 
-Página responsável pelo controle de informações associadas ao usuário. Através desta página, é possível redefinir a senha de um usuário.
+Página responsável pelo controle de informações e preferências associadas ao usuário. Através desta página, é possível que o usuário defina suas configurações de uso dentro da aplicação.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

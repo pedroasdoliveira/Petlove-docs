@@ -8,7 +8,7 @@ description: Componente responsável pelo cadastro de novos usuários na platafo
 
 O componente de registro destina-se ao controle de cadastro de colaboradores e demais usuários dentro da aplicação.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Componente de registro</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Componente de registro</p></figcaption></figure>
 
 Sua funcionalidade ocorre por meio de um formulário padrão de inscrição para eventual verificação e autorização de acesso.
 
