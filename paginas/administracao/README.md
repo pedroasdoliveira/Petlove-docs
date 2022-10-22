@@ -1,4 +1,4 @@
-# Administração
+# Administração 🕴
 
 ## Introdução
 
@@ -8,6 +8,14 @@ A página de administrador tem o acesso exclusivos para usuários com o perfil d
 
 {% content-ref url="user-list.md" %}
 [user-list.md](user-list.md)
+{% endcontent-ref %}
+
+{% content-ref url="all-user-list.md" %}
+[all-user-list.md](all-user-list.md)
+{% endcontent-ref %}
+
+{% content-ref url="user-comparison.md" %}
+[user-comparison.md](user-comparison.md)
 {% endcontent-ref %}
 
 ## Requisitos Funcionais
