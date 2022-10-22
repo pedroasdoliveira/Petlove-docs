@@ -10,7 +10,7 @@ description: >-
 
 Página para redefinição de senha por email.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Página de redefinição de senha via email</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Página de redefinição de senha via email</p></figcaption></figure>
 
 Sua funcionalidade ocorre através de um formulário com o campo "email". Uma vez enviada a solicitação, o usuário receberá uma notificação com o link para redefinição de senha. O link remete a página <mark style="color:purple;">Change</mark>.
 
@@ -74,5 +74,5 @@ const handleForgotPassword = (data: ForgotPasswordData) => {
 |                Responsividade                |                                        -                                        |                                                                                  -                                                                                 |                                                     ✅                                                     |
 
 ```
-Caminho do arquivo: src\pages\index.tsx
+Caminho do arquivo: src\pages\ForgotPassword
 ```

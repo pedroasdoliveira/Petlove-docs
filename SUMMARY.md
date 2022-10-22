@@ -14,6 +14,8 @@
   * [Login](paginas/login-and-registro/login.md)
   * [Registro](paginas/login-and-registro/registro.md)
 * [Esqueci a Senha](paginas/esqueci-a-senha.md)
+* [Mudar Senha](paginas/mudar-senha/README.md)
+  * [Componente Change Password](paginas/mudar-senha/componente-change-password.md)
 * [Homepage 🏡](paginas/homepage.md)
 * [Teste - Interview 🧾](paginas/teste-interview/README.md)
   * [StepsForm](paginas/teste-interview/stepsform.md)
