@@ -2,9 +2,13 @@
 
 ## Introdução
 
+A página de administrador tem o acesso exclusivos para usuários com o perfil de administrador cadastrado no sistema. Com o acesso o administrador pode fazer uma busca entre todos os usuários cadastrados no site, visualizar os teste e resultados de todos, fazer comparações entre perfis e equipes e avaliar os testes dos usuários que ainda não fora visualizados.
+
 ## Componentes Integrados
 
-
+{% content-ref url="user-list.md" %}
+[user-list.md](user-list.md)
+{% endcontent-ref %}
 
 ## Requisitos Funcionais
 

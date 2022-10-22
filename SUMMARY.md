@@ -25,7 +25,8 @@
 * [Histórico](paginas/historico.md)
 * [Especialidades 👑](paginas/especialidades/README.md)
   * [Specialties](paginas/especialidades/specialties.md)
-* [Administração](paginas/administracao.md)
+* [Administração](paginas/administracao/README.md)
+  * [User List](paginas/administracao/user-list.md)
 
 ## Requisitos
 
