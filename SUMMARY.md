@@ -23,7 +23,8 @@
 * [Edit - Mudar conta ⚙](paginas/edit-mudar-conta/README.md)
   * [Edit Form](paginas/edit-mudar-conta/edit-form.md)
 * [Histórico](paginas/historico.md)
-* [Especialidades](paginas/especialidades.md)
+* [Especialidades 👑](paginas/especialidades/README.md)
+  * [Specialties](paginas/especialidades/specialties.md)
 * [Administração](paginas/administracao.md)
 
 ## Requisitos

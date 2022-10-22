@@ -1,10 +1,20 @@
-# Especialidades
+---
+description: Página de descrição de níveis de especialidade.
+---
+
+# Especialidades 👑
 
 ## Introdução
 
+A página de Especialidades contém a descrição de competências necessárias para ocupação de funções relacionadas às senioridades avaliadas no teste.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Página de Especialidades.</p></figcaption></figure>
+
 ## Componentes Integrados
 
-
+{% content-ref url="specialties.md" %}
+[specialties.md](specialties.md)
+{% endcontent-ref %}
 
 ## Requisitos Funcionais
 
