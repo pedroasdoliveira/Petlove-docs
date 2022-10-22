@@ -34,7 +34,7 @@ Toda a infraestrutura da aplicação do cliente é em diferentes **componentes**
 
 <figure><img src="../.gitbook/assets/imagem_2022-10-21_165129023.png" alt=""><figcaption></figcaption></figure>
 
-Já os arquivos de configuração do servidor com o banco de dados e da API são melhores detalhados na documentação do Compodoc do repositório Back-end e na seção da API.
+Já os arquivos de configuração do servidor com o banco de dados e da API são melhores detalhados na documentação do Compodoc do repositório Back-end.
 
 &#x20;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
