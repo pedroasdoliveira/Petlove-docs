@@ -26,7 +26,7 @@ Biblioteca utilizada para a construção dos diferentes gráficos dentro da apli
 
 Biblioteca React para o envio de notificações dentro da aplicação.
 
-## 🚀 API
+## ⚡ API
 
 ### Nest.js
 
@@ -56,4 +56,24 @@ O Prisma permite realizar a conexão e enviar as modificações em do servidor p
 
 ### PostgreSQL&#x20;
 
-O PostgreSQL atua como o banco de dados principal da aplicação. Todas as informações que são enviadas ficam salvas no PostgreSQL para serem utilizadas a qualquer momento. Por se tratar de um banco SQL, com ele é possível fazer diferentes relações entre colunas em nossa aplicação com o auxilio do Prisma.&#x20;
+O PostgreSQL atua como o banco de dados principal da aplicação. Todas as informações que são enviadas ficam salvas no PostgreSQL para serem utilizadas a qualquer momento. Por se tratar de um banco SQL, com ele é possível fazer diferentes relações entre colunas em nossa aplicação com o auxilio do Prisma.
+
+## 🔧 Configurações de Desenvolvimento
+
+### TypeScript
+
+Toda a configuração e funções do projeto são baseadas em Typescript para auxiliar no desenvolvimento da aplicação como um todo, como na importação correta de cada função e nas tipagens das funções assíncrona que espera algum valor que seja do servidor ou API.
+
+### Jest
+
+Jest é a biblioteca para a criação de testes de aplicações em nosso projeto Front-end. Toda a configuração já implementada encontra-se no arquivo de configuração da ferramenta (jest.config.ts) para a realização dos testes na aplicação.
+
+### React Testing Library (RTL)
+
+Essa biblioteca trabalha em conjunto com o Jest para testar os componentes das páginas na aplicação React.
+
+### Plop
+
+Essa biblioteca simples permite a criação de componentes ou páginas no Front-end através de comandos pela CLI do projeto.
+
+## 🚀 Deploy

@@ -36,7 +36,3 @@ Nível Técnico:
 Após a realização do teste por parte do usuário, o mesmo é redirecionado para a página de seu perfil onde pode visualizar seu resultado através dos gráficos disponíveis. O colabora assim como seu gestor são notificados pela realização do teste através do site e por seu email cadastrado.
 
 Boa parte do histórico do usuário é integrado com alguns gráficos em que mostra o resultado de todas as categorias dos testes, como também de forma separada e do histórico de testes realizados para comparação de evolução do usuário de forma dinâmica.&#x20;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Instruções da aplicação
