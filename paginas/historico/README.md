@@ -8,7 +8,7 @@ description: Página de visualização de evolução do usuário com os testes n
 
 A página de Histórico é responsável por simular a grade evolutiva de um colaborador através dos testes realizados pelo mesmo.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Página de Histórico</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Página de Histórico</p></figcaption></figure>
 
 A funcionalidade dessa página está vinculada ao registro de avaliações de testes e análises comparativas entre gráficos voltados a avaliação de soft e hard skills do usuário.
 

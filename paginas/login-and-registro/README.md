@@ -8,7 +8,7 @@ description: >-
 
 Página `"raiz"` da aplicação para controle de autenticação e segurança.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Página de autenticação/cadastro de usuários</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Página de autenticação/cadastro de usuários</p></figcaption></figure>
 
 Se divide em dois componentes principais:
 

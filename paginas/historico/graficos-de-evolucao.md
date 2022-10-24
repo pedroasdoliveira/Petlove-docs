@@ -10,7 +10,7 @@ description: >-
 
 Seção final da página de Histórico. Utilizada para mostrar, por meio de gráficos, a evolução de um colaborador dentro da plataforma.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Seção Histórico de evolução em gráfico - Página Histórico</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Seção Histórico de evolução em gráfico - Página Histórico</p></figcaption></figure>
 
 ## Gráficos disponíveis
 
@@ -18,11 +18,11 @@ Com o <mark style="color:purple;">Recharts</mark> é possível a visualização 
 
 * Radar - Todos os testes
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Linha - Todos os testes - Pessoas
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Linha - Todos os testes - Processos
 
@@ -38,7 +38,7 @@ Com o <mark style="color:purple;">Recharts</mark> é possível a visualização 
 
 * Linha - Todos os testes - Tecnologia
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Componentes Integrados
 

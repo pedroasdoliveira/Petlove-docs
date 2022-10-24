@@ -31,11 +31,11 @@ A comparação é feita sempre entre dois testes: O que foi selecionado na tabel
 
 * Radar:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Exemplo de gráfico de radar - ModalUser</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Exemplo de gráfico de radar - ModalUser</p></figcaption></figure>
 
 * Barras:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de gráfico de barras - ModalUser</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>Exemplo de gráfico de barras - ModalUser</p></figcaption></figure>
 
 PS: No gráfico de Barras, através da lib "Swipper", é possível fazer a transição de um eixo para o outro dentro do próprio modal.
 

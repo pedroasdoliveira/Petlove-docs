@@ -10,7 +10,7 @@ description: >-
 
 O componente AreaComposedChart é responsável por exibir graficamente o histórico de evolução do usuário, detalhando sua progressão de carreira em suas funções após realização do teste "Self Awareness"
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Componente Gráfico: AreaComposedChart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Componente Gráfico: AreaComposedChart</p></figcaption></figure>
 
 A exibição de conteúdo ocorre por meio dos contexts <mark style="color:purple;">user</mark> e <mark style="color:purple;">specialtys</mark>.
 

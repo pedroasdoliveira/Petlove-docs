@@ -1,8 +1,14 @@
+---
+description: Página restrita ao controle de administradores do sistema.
+---
+
 # Administração 🕴
 
 ## Introdução
 
-A página de administrador tem o acesso exclusivos para usuários com o perfil de administrador cadastrado no sistema. Com o acesso o administrador pode fazer uma busca entre todos os usuários cadastrados no site, visualizar os teste e resultados de todos, fazer comparações entre perfis e equipes e avaliar os testes dos usuários que ainda não fora visualizados.
+A página de Administração se destina a gerência por parte de usuários autorizados. É por meio desta página que o gestor poderá fazer a avaliação dos testes de seus subordinados, além de poder visualizar em tempo real, atualizações sobre usuários e testes realizados, bem como suas respectivas comparações.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Página de Administração</p></figcaption></figure>
 
 ## Componentes Integrados
 
@@ -19,8 +25,6 @@ A página de administrador tem o acesso exclusivos para usuários com o perfil d
 {% endcontent-ref %}
 
 ## Requisitos Funcionais
-
-
 
 |                                           Descrição                                           |                                                       Entradas                                                      |                                         Saídas                                         |                                                          Observações ⭐                                                          |
 | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |

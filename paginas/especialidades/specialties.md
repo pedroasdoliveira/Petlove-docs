@@ -45,9 +45,9 @@ export const SpecialtysContextProvider = ({ children }: SpecialtysContextProps) 
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Especialidades Trainee e Júnior</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Especialidades Pleno + Senior</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Especialidades Pleno + Senior</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Requisitos Funcionais
 
