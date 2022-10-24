@@ -12,7 +12,7 @@ Uma vez que seja feita a avaliação, será possível construir o PAD - Plano de
 
 A página é caracterizada por um layout simples e intuitivo, visando melhorar a experiência do usuário no momento da avaliação, possibilitando uma troca de informações em um meio claro e assertivo.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Página do teste.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Página do teste.</p></figcaption></figure>
 
 O usuário conta ainda com mecanismos auxiliares para conduzi-lo em sua avaliação, como uma barra de progresso e subdivisões dos eixos de observação.
 

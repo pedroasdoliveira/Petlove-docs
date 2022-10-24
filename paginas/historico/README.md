@@ -10,7 +10,7 @@ A página de Histórico é responsável por simular a grade evolutiva de um cola
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Página de Histórico</p></figcaption></figure>
 
-A funcionalidade dessa página está vinculada ao registro de avaliações de testes e análises comparativas entre diversos tipos de gráficos voltados a avaliação de soft e hard skills do usuário.
+A funcionalidade dessa página está vinculada ao registro de avaliações de testes e análises comparativas entre gráficos voltados a avaliação de soft e hard skills do usuário.
 
 ## Componentes Integrados
 

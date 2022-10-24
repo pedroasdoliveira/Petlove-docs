@@ -8,7 +8,7 @@ description: Página de descrição de níveis de especialidade.
 
 A página de Especialidades contém a descrição de competências necessárias para ocupação de funções relacionadas às senioridades avaliadas no teste.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Página de Especialidades.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Página de Especialidades.</p></figcaption></figure>
 
 ## Componentes Integrados
 

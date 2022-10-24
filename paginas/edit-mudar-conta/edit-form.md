@@ -8,9 +8,7 @@ description: Componente responsável por alterar informações e preferências d
 
 O componente de <mark style="color:purple;">EditForm</mark> é responsável pela redefinição de dados e configurações do usuário associado a conta.
 
-
-
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Componente de EditForm</p></figcaption></figure>
 
 Modificações feitas são realizadas através de múltiplos formulários de edição.
 
@@ -182,8 +180,6 @@ const handleEdit = (data: EditData) => {
       });
   };
 ```
-
-
 
 ## Componentes integrados
 

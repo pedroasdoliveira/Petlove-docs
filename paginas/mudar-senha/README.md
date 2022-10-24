@@ -8,7 +8,7 @@ description: Página responsável pela redefinição de senha
 
 Página de restauração de senha.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Página de alteração de senha.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Página de alteração de senha.</p></figcaption></figure>
 
 Por meio dessa página será permitido ao usuário redefinir sua senha após recebimento do email com o link para a restauração.
 

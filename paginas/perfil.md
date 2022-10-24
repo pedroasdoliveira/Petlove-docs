@@ -8,7 +8,7 @@ description: Página inicial com informações do usuário logado.
 
 A página Profile é o próximo destino do usuário após realizar o teste "Self Awareness".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Página Profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Página Profile</p></figcaption></figure>
 
 Aqui ficarão contidas as informações de estado de avaliação do último teste feito pelo usuário, além de dados relativos a conta como nome, foto, endereço eletrônico, função, etc.
 
