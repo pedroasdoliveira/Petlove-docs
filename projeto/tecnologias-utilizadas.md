@@ -64,6 +64,10 @@ O PostgreSQL atua como o banco de dados principal da aplicação. Todas as infor
 
 Toda a configuração e funções do projeto são baseadas em Typescript para auxiliar no desenvolvimento da aplicação como um todo, como na importação correta de cada função e nas tipagens das funções assíncrona que espera algum valor que seja do servidor ou API.
 
+### Nest-Next
+
+Essa biblioteca de configuração permite realizar a integração dos projetos Front-end (Nextjs) e Back-end (Nestjs) em uma única aplicação como Fullstack. Com isso é possível fazer toda a interligação do servidor com a parte do cliente sem precisar chamar o server por fora, pois ao rodar o comando de script ele inicia o Front-end e o Back-end simultaneamente, deixando o projeto mais performático e veloz no momento da execução. Com toda essa configuração de renderizar ambas as aplicações em conjunto, auxilia também no processo de deploy da aplicação, onde os dois repositórios podem estar juntos no mesmo deploy.  &#x20;
+
 ### Jest
 
 Jest é a biblioteca para a criação de testes de aplicações em nosso projeto Front-end. Toda a configuração já implementada encontra-se no arquivo de configuração da ferramenta (jest.config.ts) para a realização dos testes na aplicação.

@@ -28,13 +28,15 @@ Boa parte da aplicação é formada por diferentes modelos de gráficos com dife
 
 ### Estruturação dos códigos
 
-Cada função da aplicação de desenvolvimento, back-end e front-end, estão separados em diferentes pastas cujo cada pasta nomeada armazena os arquivos que cuidam de cada uma funcionalidade do projeto.
+Boa parte da arquitetura do projeto se encontra dentro da pasta "src", onde se encontra as pastas coms os arquivos de servidor ("server"), o arquivo de integração ("services"), os arquivos das páginas da aplicação ("pages") e os outros arquivos para auxiliar no desenvolvimento do projeto.
 
-Toda a infraestrutura da aplicação do cliente é em diferentes **componentes** (Components) onde estão os gráficos, as funcionalidades dos questionários do teste e outras funcionalidades do projeto. Já outras pastas como as rotas de cada página (Pages), os estados globais da aplicação (Contexts) e o arquivo de conexão com o servidor (Services) se encontram dentro da pasta Source (Src) do projeto para fazer a divisão entre os arquivos de configurações da aplicação de desnvolvimento para os de funcionalidades com a aplicação visual.
+<figure><img src="../.gitbook/assets/imagem_2022-10-25_232129523.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagem_2022-10-21_165129023.png" alt=""><figcaption></figcaption></figure>
+Já os arquivos por fora são os arquivos de configuração base para o desenvolvimento do projeto.
 
-Já os arquivos de configuração do servidor com o banco de dados e da API são melhores detalhados na documentação do Compodoc do repositório Back-end.
+<figure><img src="../.gitbook/assets/imagem_2022-10-25_232052933.png" alt=""><figcaption></figcaption></figure>
+
+Por se tratar de uma aplicação Fullstack, certos arquivos contém as configurações do Front-end (Nextjs) e Back-end (Nestjs) interligadas para fazer interligação de ambos os projetos funcionarem de forma sincronizada.
 
 &#x20;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
