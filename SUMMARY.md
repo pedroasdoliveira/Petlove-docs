@@ -37,3 +37,7 @@
 
 * [🔧 Ferramentas](requisitos/ferramentas.md)
 * [🚀 Instalação](requisitos/instalacao.md)
+
+## Contribuições
+
+* [Autores ✒️](contribuicoes/autores.md)

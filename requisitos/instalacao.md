@@ -87,3 +87,15 @@ Após toda a configuração do Prisma, execute o comando a seguir para testar se
 ```
 npm run start:dev
 ```
+
+Para rodar a aplicação no ambiente de produção utilize o comando:
+
+```
+npm run build:nest
+```
+
+Depois:
+
+```
+npm run start:prod
+```
