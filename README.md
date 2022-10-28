@@ -36,3 +36,19 @@ Nível Técnico:
 Após a realização do teste por parte do usuário, o mesmo é redirecionado para a página de seu perfil onde pode visualizar seu resultado através dos gráficos disponíveis. O colabora assim como seu gestor são notificados pela realização do teste através do site e por seu email cadastrado.
 
 Boa parte do histórico do usuário é integrado com alguns gráficos em que mostra o resultado de todas as categorias dos testes, como também de forma separada e do histórico de testes realizados para comparação de evolução do usuário de forma dinâmica.&#x20;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### Repositórios da aplicação
+
+Ambas as aplicações, estão disponíveis de forma publica no Github junto com os links dos deploys.
+
+Repositório Front-end: [https://github.com/pedroasdoliveira/Petlove-Project-Frontend](https://github.com/pedroasdoliveira/Petlove-Project-Frontend);&#x20;
+
+Repositório Back-end: [https://github.com/pedroasdoliveira/Petlove-Project-Backend](https://github.com/pedroasdoliveira/Petlove-Project-Backend);
+
+Já os links dos deploys da aplicação se encontram em [#deploy](projeto/tecnologias-utilizadas.md#deploy "mention")
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Para mais detalhe sobre a aplicação segue os links da [api.md](projeto/api.md "mention") e sobre [tecnologias-utilizadas.md](projeto/tecnologias-utilizadas.md "mention"). E também os links de [Broken link](broken-reference "mention") sobre todas as páginas e componentes da aplicação.

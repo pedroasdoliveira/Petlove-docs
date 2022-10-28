@@ -64,10 +64,6 @@ O PostgreSQL atua como o banco de dados principal da aplicação. Todas as infor
 
 Toda a configuração e funções do projeto são baseadas em Typescript para auxiliar no desenvolvimento da aplicação como um todo, como na importação correta de cada função e nas tipagens das funções assíncrona que espera algum valor que seja do servidor ou API.
 
-### Nest-Next
-
-Essa biblioteca de configuração permite realizar a integração dos projetos Front-end (Nextjs) e Back-end (Nestjs) em uma única aplicação como Fullstack. Com isso é possível fazer toda a interligação do servidor com a parte do cliente sem precisar chamar o server por fora, pois ao rodar o comando de script ele inicia o Front-end e o Back-end simultaneamente, deixando o projeto mais performático e veloz no momento da execução. Com toda essa configuração de renderizar ambas as aplicações em conjunto, auxilia também no processo de deploy da aplicação, onde os dois repositórios podem estar juntos no mesmo deploy.  &#x20;
-
 ### Jest
 
 Jest é a biblioteca para a criação de testes de aplicações em nosso projeto Front-end. Toda a configuração já implementada encontra-se no arquivo de configuração da ferramenta (jest.config.ts) para a realização dos testes na aplicação.
@@ -81,3 +77,11 @@ Essa biblioteca trabalha em conjunto com o Jest para testar os componentes das p
 Essa biblioteca simples permite a criação de componentes ou páginas no Front-end através de comandos pela CLI do projeto.
 
 ## 🚀 Deploy
+
+### Render
+
+O Render é um ambiente onde é possível realizar o deploy da nossa aplicação Back-end e também do nosso banco de dados tudo junto. Link do deploy com a API do Swagger: [https://api-petlove-backend.onrender.com/api](https://api-petlove-backend.onrender.com/api)
+
+### Vercel
+
+Assim como o Render, a Vercel é a plataforma onde realizamos o deploy da nossa aplicação Front-end por causa da sua facilidade de subir aplicações Next.js. Link do deploy: [https://petlove-project-frontend.vercel.app](https://petlove-project-frontend.vercel.app)  &#x20;
