@@ -76,6 +76,10 @@ Essa biblioteca trabalha em conjunto com o Jest para testar os componentes das p
 
 Essa biblioteca simples permite a criação de componentes ou páginas no Front-end através de comandos pela CLI do projeto.
 
+### Compodoc
+
+A biblioteca do Compodoc permite a criação de uma documentação estruturada sobre a aplicação Back-end, detalhando os principais conceitos de cada parte do desenvolvimento. Para acessa-lo segue o exemplo na parte de [#rodando-a-documentacao-do-compodoc](../requisitos/instalacao.md#rodando-a-documentacao-do-compodoc "mention") em Instalação.
+
 ## 🚀 Deploy
 
 ### Render
