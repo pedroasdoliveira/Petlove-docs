@@ -1,6 +1,6 @@
 # 🚀 Instalação
 
-## Clonando o projeto
+## Clonando e rodando o projeto
 
 ### Front-end
 
@@ -99,3 +99,27 @@ Depois:
 ```
 npm run start:prod
 ```
+
+#### Rodando a documentação do Compodoc
+
+O Compodoc é um modelo de documentação exclusiva para o Back-end, mostrando sobre todos os componentes da aplicação de forma explicativa.
+
+Para rodar o Compodoc na aplicação é necessário utilizar o comando:
+
+```
+npm run compodoc
+```
+
+Após isso ele irá gerar um link de acesso.
+
+#### Rodando o Prisma Studio
+
+O Prisma Studio serve como uma tabela em que o usuário pode acessar e modificar diretamente por ele as informações que estão sendo salvas no banco de dados da aplicação.
+
+Para acessa-lo é necessário rodar o comando:
+
+```
+npx prisma studio
+```
+
+Após o comando você será encaminhado diretamente para a página dele para modificação.

@@ -28,15 +28,17 @@ Boa parte da aplicação é formada por diferentes modelos de gráficos com dife
 
 ### Estruturação dos códigos
 
-Boa parte da arquitetura do projeto se encontra dentro da pasta "src", onde se encontra as pastas coms os arquivos de servidor ("server"), o arquivo de integração ("services"), os arquivos das páginas da aplicação ("pages") e os outros arquivos para auxiliar no desenvolvimento do projeto.
+Boa parte da arquitetura de ambos os projetos se encontra dentro da pasta "src", onde se encontra as pastas coms os arquivos de servidor ("server"), o arquivo de integração ("services"), os arquivos das páginas da aplicação ("pages") e os outros arquivos para auxiliar no desenvolvimento do projeto.
 
-<figure><img src="../.gitbook/assets/imagem_2022-10-25_232129523.png" alt=""><figcaption></figcaption></figure>
+No Back-end da aplicação se encontram as pastas de Autenticação (auth), a pasta com os arquivos de utilidades do projeto (utils), a pasta de configuração do Prisma (prisma) e as pastas de ambos os dtos, services e controllers das rotas da API, além do arquivos principais do App.
 
-Já os arquivos por fora são os arquivos de configuração base para o desenvolvimento do projeto.
+<figure><img src="../.gitbook/assets/imagem_2022-10-28_224120480.png" alt=""><figcaption><p>src - Back-end</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagem_2022-10-25_232052933.png" alt=""><figcaption></figcaption></figure>
+Dentro da pasta "src" do Front-end se encontram as pastas com os arquivos que mantem a aplicação visível e funcional, como a pasta de componentes (components), a pasta com os context que cuidam de todas a integração da aplicação visivel (contexts), a pasta com as páginas da aplicação (pages) e pasta de services que cuida da interligação entre a API, e as outras pastas.&#x20;
 
-Por se tratar de uma aplicação Fullstack, certos arquivos contém as configurações do Front-end (Nextjs) e Back-end (Nestjs) interligadas para fazer interligação de ambos os projetos funcionarem de forma sincronizada.
+<figure><img src="../.gitbook/assets/imagem_2022-10-28_224652094.png" alt=""><figcaption><p>src - Front-end</p></figcaption></figure>
+
+Já as outras pastas e arquivos contribuem mais na parte da configuração do projeto dentro do ambiente de desenvolvimento.&#x20;
 
 &#x20;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
