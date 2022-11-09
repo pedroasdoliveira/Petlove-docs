@@ -52,3 +52,5 @@ Já os links dos deploys da aplicação se encontram em [#deploy](projeto/tecnol
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Para mais detalhe sobre a aplicação segue os links da [api.md](projeto/api.md "mention") e sobre [tecnologias-utilizadas.md](projeto/tecnologias-utilizadas.md "mention"). E também os links de [Broken link](broken-reference "mention") sobre todas as páginas e componentes da aplicação.
+
+Caso queira instalar o projeto em sua máquina siga os passos na página de [instalacao.md](requisitos/instalacao.md "mention").

@@ -34,11 +34,19 @@ No Back-end da aplicação se encontram as pastas de Autenticação (auth), a pa
 
 <figure><img src="../.gitbook/assets/imagem_2022-10-28_224120480.png" alt=""><figcaption><p>src - Back-end</p></figcaption></figure>
 
-Dentro da pasta "src" do Front-end se encontram as pastas com os arquivos que mantem a aplicação visível e funcional, como a pasta de componentes (components), a pasta com os context que cuidam de todas a integração da aplicação visivel (contexts), a pasta com as páginas da aplicação (pages) e pasta de services que cuida da interligação entre a API, e as outras pastas.&#x20;
+Dentro da pasta "src" do Front-end se encontram as pastas com os arquivos que mantem a aplicação visível e funcional, como a pasta de componentes (components), a pasta com os context que cuidam de todas a integração da aplicação visível (contexts), a pasta com as páginas da aplicação (pages) e pasta de services que cuida da interligação entre a API, e as outras pastas.&#x20;
 
 <figure><img src="../.gitbook/assets/imagem_2022-10-28_224652094.png" alt=""><figcaption><p>src - Front-end</p></figcaption></figure>
 
 Já as outras pastas e arquivos contribuem mais na parte da configuração do projeto dentro do ambiente de desenvolvimento.&#x20;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### Estruturação das relações no banco&#x20;
+
+Toda a interligação entre a API e o banco são realizados através do Prisma dentro do arquivo `schema.prisma`, onde todas as tabelas, no caso representadas como models, estão montadas representado as suas colunas de informações, onde certas models fazem relacionamentos entre outras, permitido dentro da aplicação e do Swagger que suas informações sejam interligadas com a de uma outra tabela de forma organizada. Boa parte desse relacionamento que é feito dentro do PostgreSQL é representada conforme nesse modelo:
+
+<figure><img src="../.gitbook/assets/imagem_2022-11-08_214326885.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
