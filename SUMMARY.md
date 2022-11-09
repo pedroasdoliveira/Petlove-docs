@@ -4,9 +4,9 @@
 
 ## Projeto
 
-* [Estruturação](projeto/estruturacao.md)
-* [API](projeto/api.md)
-* [Tecnologias utilizadas](projeto/tecnologias-utilizadas.md)
+* [🔗 Estruturação](projeto/estruturacao.md)
+* [⚙ API](projeto/api.md)
+* [🛠 Tecnologias utilizadas](projeto/tecnologias-utilizadas.md)
 
 ## Páginas
 
