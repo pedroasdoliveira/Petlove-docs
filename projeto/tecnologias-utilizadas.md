@@ -1,4 +1,4 @@
-# Tecnologias utilizadas
+# 🛠 Tecnologias utilizadas
 
 ## 💻 Website
 
@@ -88,4 +88,4 @@ O Render é um ambiente onde é possível realizar o deploy da nossa aplicação
 
 ### Vercel
 
-Assim como o Render, a Vercel é a plataforma onde realizamos o deploy da nossa aplicação Front-end por causa da sua facilidade de subir aplicações Next.js. Link do deploy: [https://petlove-project-frontend.vercel.app](https://petlove-project-frontend.vercel.app)  &#x20;
+Assim como o Render, a Vercel é a plataforma onde realizamos o deploy da nossa aplicação Front-end por causa da sua facilidade de subir aplicações Next.js. Link do deploy: [https://selfawareness.solutions](https://selfawareness.solutions)  &#x20;
